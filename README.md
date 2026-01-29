@@ -148,5 +148,5 @@ The experience prepared me to move forward with advanced Python, backend develop
 
 ---
 
-**👤 Author:** M. Vyshali  
+**👤 Name:** Marepalli Lakshmi Sai Vyshali  
 **🏢 Internship:** ShadowFox – Python Development  
